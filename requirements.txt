@@ -1,4 +1,2 @@
-requests
 plotly
-tzdata
- 
+requests
